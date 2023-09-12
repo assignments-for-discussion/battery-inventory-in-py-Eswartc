@@ -6,7 +6,7 @@ def count_batteries_by_health(present_capacities):
     failed_count = 0
 
     
-    rated_capacity = 120  # assuming according to what was given in README.md
+    rated_capacity = 120  # assuming, according to what was given in README.md
 
     
     for capacity in present_capacities:
